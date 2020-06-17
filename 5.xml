@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Remainder>
+<Birthday>
+    <Date>8 May</Date>
+    <name>Abhay Chaudhary</name>
+    <Venue>1/108 Awas - Vikas</Venue>
+</Birthday>
+<Meeting>
+    <Date>14 MAy 20</Date>
+    <Venue>IIIT Sonepat</Venue>
+    <Topic> Flutter </Topic>
+</Meeting>
+</Remainder>
